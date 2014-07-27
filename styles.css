@@ -6,3 +6,8 @@ h1{
   font-size: 200%;
   font-weight: normal;
 }
+
+h2{
+  font-decoration: underline;
+  font-size; 133%;
+}
