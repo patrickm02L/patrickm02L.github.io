@@ -4,6 +4,6 @@
 
 ### Objective of the project
 
-* Demostrate GitHub Pages
+* Demonstrate GitHub Pages
 * Learning Collaboration patterns
 * Using GitHub for Mac desktop client
