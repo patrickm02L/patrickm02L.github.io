@@ -3,17 +3,17 @@ body{
 }
 
 h1{
-  font-size: 50px;
+  font-size: 40px;
   font-weight: normal;
 }
 
 h2{
-  font-size; 40%;
+  font-size; 30%;
   font-weight: normal;
 }
 
 img {
-  border-radius: 50px;
+  border-radius: 100px;
 }
 
 ul {
