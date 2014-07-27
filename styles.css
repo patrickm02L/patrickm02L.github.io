@@ -1,13 +1,30 @@
 body{
-  font-size: 14px;
+  font-size: 20px;
 }
 
 h1{
-  font-size: 200%;
+  font-size: 40px;
   font-weight: normal;
 }
 
 h2{
-  font-decoration: underline;
-  font-size; 133%;
+  font-size; 30%;
+  font-weight: normal;
+}
+
+img {
+  border-radius: 100px;
+}
+
+ul {
+  padding: 10px;
+}
+
+li {
+  display: inline;
+  padding: 0px 10px 0px 10px;
+}
+
+.container-narrow{
+  width: 30%;
 }
