@@ -8,3 +8,8 @@ http://patrickm02L.github.io
 * Demonstrate GitHub Pages
 * Learning Collaboration patterns
 * Using GitHub for Mac desktop client
+
+========
+
+## How I Did This!
+
