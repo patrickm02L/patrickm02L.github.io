@@ -32,10 +32,10 @@ Created a simple site that could be reviewed.
 
 #### 27 Sunday
 
-Tweeted at Lou Huang @louh and asked for help.
+Tweeted at Lou Huang https://github.com/louh and asked for help.
 He tweeted back and agreed to help for 30min on a Sunday afternoon. 
 
-Jumped on a Google Hangout and we did a line-by-line review and comparison of my website to Cathy's
+Jumped on a Google Hangout and we did a line-by-line review and comparison of my website to Cathy's.
 
 #### 28 Monday
 Fine tuning here and there. Researching more about what the lines I copied mean and how to improve them. 
