@@ -21,7 +21,7 @@ Watched: GitHub Use Cases, Workflows & Desktop Apps http://youtu.be/l40x1EshOBE
 
 Started my own github pages page. 
 
-Found a simple example of a website: http://cathydeng.github.io/  via @cathydeng
+Found a simple website example to copy: http://cathydeng.github.io/  via @cathydeng.
 Copy and pasted code that I wanted on my site into. 
 
 #### 26 Saturday
