@@ -14,7 +14,7 @@ http://patrickm02L.github.io
 ## How I Did This!
 Log of events
 
-### JULY
+### JULY 2014
 #### 25 Friday
 
 Watched: GitHub Use Cases, Workflows & Desktop Apps http://youtu.be/l40x1EshOBE
