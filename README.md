@@ -48,6 +48,8 @@ Jumped on a Google Hangout. Did a line-by-line review and comparison of my websi
 
 Fine tuning here and there. Continuing research about what the lines I copied mean, and how to improve them. 
 
-### GitHub Page Version 1 Completed - July 30, 2014 
+
+### GitHub Page Version 1 
+Completed - July 30, 2014 
 
 ![patrickm02L page version 1](http://40.media.tumblr.com/1a93fd4c94a0df6da336d619691050f0/tumblr_n9e0iyYZXN1ss9v8xo1_1280.jpg)
