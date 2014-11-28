@@ -48,3 +48,4 @@ Jumped on a Google Hangout. Did a line-by-line review and comparison of my websi
 
 Fine tuning here and there. Continuing research about what the lines I copied mean, and how to improve them. 
 
+![patrickm02L page version 1](patrickm02L.github.io / img / patrickm02L github page v1.jpg)
