@@ -53,7 +53,6 @@ GitHub Page Version 1
 
 ![patrickm02L page version 1](https://raw.githubusercontent.com/patrickm02L/patrickm02L.github.io/master/img/githubpagev1.jpg)
 
-
 ### JANUARY 2015
 ### 03 Saturday
 
