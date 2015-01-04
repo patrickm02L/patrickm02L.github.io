@@ -26,6 +26,10 @@ li {
   padding: 0px 10px 0px 10px;
 }
 
+a:link {
+  color: #000000;
+}
+
 .center{
   text-align:center;
 }
