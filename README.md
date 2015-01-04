@@ -51,7 +51,7 @@ Fine tuning here and there. Continuing research about what the lines I copied me
 #### 30 Wednesday
 GitHub Page Version 1 
 
-![patrickm02L page version 1](https://raw.githubusercontent.com/patrickm02L/patrickm02L.github.io/img/githubpagev1.jpg)
+![patrickm02L page version 1](https://raw.githubusercontent.com/patrickm02L/patrickm02L.github.io/master/img/githubpagev1.jpg)
 
 ![patrickm02L page version 1](http://40.media.tumblr.com/1a93fd4c94a0df6da336d619691050f0/tumblr_n9e0iyYZXN1ss9v8xo1_1280.jpg)
 
