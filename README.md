@@ -54,6 +54,10 @@ GitHub Page Version 1
 ![patrickm02L page version 1](https://raw.githubusercontent.com/patrickm02L/patrickm02L.github.io/master/img/githubpagev1.jpg)
 
 ### JANUARY 2015
-### 03 Saturday
+#### 03 Saturday
 
 New Template. Centered Timeline Style for mobile optimization.
+
+#### 05 Monday
+
+Centered the imgs in photoshop and uploaded new versions, added link to patrickm02L.com 
