@@ -66,3 +66,8 @@ Centered the imgs in photoshop and uploaded new versions, added link to patrickm
 #### 17 Sunday
 
 Updated Experience and Volunteer, added links to Elsewhere
+
+### SEP 2015
+#### 14 Sunday
+
+Created a brand new template. New HTML and CSS
