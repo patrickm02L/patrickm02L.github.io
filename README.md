@@ -71,3 +71,8 @@ Updated Experience and Volunteer, added links to Elsewhere
 #### 14 Sunday
 
 Created a brand new template. New HTML and CSS
+
+### JULY 2016
+#### 4 Monday
+
+Deleted old template, uploaded new portfolio version 3
