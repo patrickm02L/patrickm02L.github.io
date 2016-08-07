@@ -77,3 +77,8 @@ Created a brand new template. New HTML and CSS
 #### 4 Monday
 
 Deleted old template, uploaded new portfolio version 3
+
+### AUGUST 2016
+#### 4 Thursday
+
+Implemented Jekyll Static Site Framework
