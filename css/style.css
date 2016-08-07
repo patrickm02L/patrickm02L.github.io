@@ -57,7 +57,7 @@ html, body {
 
 /* additional sections */
 #home {
-  background: url(../img/patrick-head.jpg) no-repeat center center fixed;
+background: url(../img/patrick-head.jpg) no-repeat center center fixed;
   display: table;
   height: 100%;
   position: relative;
@@ -89,7 +89,7 @@ html, body {
 }
 
 #work {
-  /*background: url(../img/swing.jpg) no-repeat center center fixed; */
+  background: url(../img/swing.jpg) no-repeat center center fixed;
   display: table;
   height: 800px;
   position: relative;
