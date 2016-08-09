@@ -1,5 +1,5 @@
 ---
-title: City In Website Concept
+title: Bookworm Mini Parklet
 ---
 
-![City In](assets/img/work/proj-2/CityIn-AntonSkvortsov.jpg)
+![Bookworm Mini Parklet](assets/img/work/proj-2/bookworm-mini-parklet.jpg)

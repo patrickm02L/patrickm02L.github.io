@@ -1,6 +1,6 @@
 # Layout settings
 
-animation: "bounceOut"
+animation: "fadeIn"
 
 # Images
 
@@ -10,7 +10,7 @@ avatar: "patrick-head.jpg"
 
 # Colors
 
-accent: "#427ea3"
+accent: "#003c66"
 
 textColor: "#666"
 headlineColor: "#333"

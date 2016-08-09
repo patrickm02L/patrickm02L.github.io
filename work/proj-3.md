@@ -1,5 +1,5 @@
 ---
-title: Crispy Icons
+title: Cardboard Animal Picnic
 ---
 
-![Crispy Icons](assets/img/work/proj-3/CrispyIcons-PetrasNargela.jpg)
+![Cardboard Animal Picnic](assets/img/work/proj-3/cardboard-animal-picnic.jpg)
