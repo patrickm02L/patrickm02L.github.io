@@ -106,8 +106,8 @@ social:
 - {icon: 'twitter', link: 'https://twitter.com/patrickm02L'}
 - {icon: 'instagram', link: 'https://www.instagram.com/patrickm02l/'}
 - {icon: 'youtube', link: 'https://www.youtube.com/user/patrickm02L'}
-- {icon: 'linkedin', link: 'https://www.linkedin.com/in/patrickm02l
-'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/patrickm02l'}
+- {icon: 'github', link: 'https://github.com/patrickm02L'}
 
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
