@@ -8,7 +8,7 @@ email: patrickm02L@gmail.com
 # NOTE: The Logo and Background image are defined in the all.sass document.
 
 menu:
-- {name: About Me, url: '#about-me'}
+- {name: About, url: '#about'}
 - {name: Work, url: '#work'}
 - {name: Contact, url: '#contact'}
 
