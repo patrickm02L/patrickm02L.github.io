@@ -78,6 +78,7 @@ projects:
 - {name: On Hamburger Square, folder: 'on-hamburger-square', file: 'work/on-hamburger-square.html'}
 - {name: Tape Maze, folder: 'tape-maze', file: 'work/tape-maze.html'}
 - {name: The Yard, folder: 'the-yard', file: 'work/the-yard.html'}
+- {name: Dallas Visual Timeline, folder: 'dallas-visual-timeline', file: 'work/dallas-visual-timeline.html'}
 #-------------------------------
 # Clients Section
 
