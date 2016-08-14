@@ -5,7 +5,8 @@ title: "Dallas Visual Timeline"
 ![Dallas Visual Timeline](assets/img/work/dallas-visual-timeline/dallas-visual-timeline-1.jpg)
 **May 2011 | Dallas,TX** <br>
 Research . Mapping . Design . Mounting <br>
-18' x 6' <br>
+16' x 3/16" x 6' <br>
+Gator Board <br>
 
 ---
 
