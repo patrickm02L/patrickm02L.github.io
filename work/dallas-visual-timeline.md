@@ -14,6 +14,10 @@ The Dallas Visual Timeline breaks the city down into four main urban design cate
 
 The timeline was created in conjunction with the opening of Dallas's Margaret Hunt Hill Bridge. It was open to the public for viewing and served as a feedback board for what urban design citizens would live to see in the city.
 
+<br>
+
+***Images***
+
 ![Dallas Visual Timeline](assets/img/work/dallas-visual-timeline/dallas-visual-timeline-2.jpg)
 ![Dallas Visual Timeline](assets/img/work/dallas-visual-timeline/dallas-visual-timeline-3.jpg)
 ![Dallas Visual Timeline](assets/img/work/dallas-visual-timeline/dallas-visual-timeline-4.jpg)

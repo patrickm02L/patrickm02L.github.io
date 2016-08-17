@@ -67,7 +67,8 @@ projects:
 - {name: Busking Day, folder: 'busking-day', file: 'work/busking-day.html'}
 - {name: Chalktoberfest, folder: 'chalktoberfest', file: 'work/chalktoberfest.html'}
 - {name: Ice Cream Stage, folder: 'ice-cream-stage', file: 'work/ice-cream-stage.html'}
-- {name: Festivus, folder: 'festivus', file: 'work/festivus.html'}
+- {name: Festivus of Lights, folder: 'festivus', file: 'work/festivus.html'}
+- {name: Dallas Visual Timeline, folder: 'dallas-visual-timeline', file: 'work/dallas-visual-timeline.html'}
 - {name: Inspector Gadget, folder: 'inspector-gadget', file: 'work/inspector-gadget.html'}
 - {name: Black Lunch Tables, folder: 'black-lunch-tables', file: 'work/black-lunch-tables.html'}
 - {name: Blind Field Shuttle, folder: 'blind-field-shuttle', file: 'work/blind-field-shuttle.html'}
@@ -77,7 +78,6 @@ projects:
 - {name: On Hamburger Square, folder: 'on-hamburger-square', file: 'work/on-hamburger-square.html'}
 - {name: Tape Maze, folder: 'tape-maze', file: 'work/tape-maze.html'}
 - {name: The Yard, folder: 'the-yard', file: 'work/the-yard.html'}
-- {name: Dallas Visual Timeline, folder: 'dallas-visual-timeline', file: 'work/dallas-visual-timeline.html'}
 - {name: Gate City Sign, folder: 'gate-city-sign', file: 'work/gate-city-sign.html'}
 #-------------------------------
 # Clients Section
