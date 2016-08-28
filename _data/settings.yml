@@ -69,7 +69,6 @@ projects:
 - {name: Ice Cream Stage, folder: 'ice-cream-stage', file: 'work/ice-cream-stage.html'}
 - {name: Festivus of Lights, folder: 'festivus', file: 'work/festivus.html'}
 - {name: Dallas Visual Timeline, folder: 'dallas-visual-timeline', file: 'work/dallas-visual-timeline.html'}
-- {name: Inspector Gadget, folder: 'inspector-gadget', file: 'work/inspector-gadget.html'}
 - {name: Black Lunch Tables, folder: 'black-lunch-tables', file: 'work/black-lunch-tables.html'}
 - {name: Blind Field Shuttle, folder: 'blind-field-shuttle', file: 'work/blind-field-shuttle.html'}
 - {name: Hopscotch, folder: 'hopscotch', file: 'work/hopscotch.html'}
@@ -79,6 +78,7 @@ projects:
 - {name: Tape Maze, folder: 'tape-maze', file: 'work/tape-maze.html'}
 - {name: The Yard, folder: 'the-yard', file: 'work/the-yard.html'}
 - {name: Gate City Sign, folder: 'gate-city-sign', file: 'work/gate-city-sign.html'}
+- {name: Inspector Gadget, folder: 'inspector-gadget', file: 'work/inspector-gadget.html'}
 #-------------------------------
 # Clients Section
 
@@ -114,6 +114,5 @@ social:
 - {icon: 'youtube', link: 'https://www.youtube.com/user/patrickm02L'}
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/patrickm02l'}
 - {icon: 'github', link: 'https://github.com/patrickm02L'}
-
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'

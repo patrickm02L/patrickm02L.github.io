@@ -3,8 +3,15 @@ title: Living Plaza
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aGKOpKzW2g0" frameborder="0" allowfullscreen></iframe>
-HI
+**May-September 2011 | Dallas,TX** <br>
+Organizing . Promotion . Filming <br>
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+---
+
+Living Plaza, was a monthly placemaking event that promoted the activation of Dallas's City Hall Plaza as an example of how to how underutilized spaces could be easily activated with the use of tables and chair, music, and foodtrucks.
+
+It was also an exercise in Special Events permitting - there was an event every month for 6 months that involved coordinating with the city, with musicians, artists, security, the media, and city officials.
+
+This was my first major project in the public spaces / placemaking arena. This is where I cut my teeth!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cD2GLUaQs0c" frameborder="0" allowfullscreen></iframe>

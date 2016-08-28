@@ -3,5 +3,13 @@ title: Inspector Gadget
 ---
 
 ![Inspector Gadget](assets/img/work/inspector-gadget/inspector-gadget.jpg)
+**May-August 2016 | Long Beach, CA** <br>
+Research . Wireframes . User Testing <br>
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+---
+
+Inspector Gadget is an online Inspection Scheduling tool built for the City of Long Beach.
+
+As part of the Code for America Fellowship, we were tasked to help make the Business start-up process easier. One of the challenges we identified was the regulatory side of developing and how big of a part Inspections played in the overall launch time of a business.
+
+We created this tool to so that people could go online and fill out a form that would directly be assigned to an Inspector, which greatly improves the current process of Permit Techs listening to voice mails, transcribing, and then using google maps to make sure they are assigned to the right Inspector.  

@@ -3,15 +3,14 @@ title: Swing Park
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_a6vrwMbHdc" frameborder="0" allowfullscreen></iframe>
-<br>
 **September 2013 | Dallas,TX** <br>
-**Design . Build . Promotion** <br>
+Design . Build . Promotion<br>
 10’ x 10’ x 9’ <br>
 Metal . Rubber <br>
 
 ---
 
-The Mobile Swing Park is a pop-up swing set promoting play in the city. The idea emerged from wanting to turn empty parking lots into playgrounds to change their function and liven up dead spaces.
+The Mobile Swing Park is a pop-up swing set promoting play in the city. The idea emerged from wanting to turn empty parking lots into playgrounds, to change their function, and liven up dead spaces.
 
 The Swing Park debuted at PARK(Ing) Day Dallas 2013 right on the Main St. in Downtown Dallas. The full four-person swing set was popped-up at an the annual Dallas art fundraiser Art Con, and then eventually donated to the non-profited.
 
