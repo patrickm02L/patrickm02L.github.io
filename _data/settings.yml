@@ -59,6 +59,7 @@ skills:
 
 projects:
 - {name: Swing Park, folder: 'swingpark', file: 'work/swingpark.html'}
+- {name: Balançoire, folder: 'balancoire', file: 'work/balancoire.html'}
 - {name: Living Plaza, folder: 'living-plaza', file: 'work/living-plaza.html'}
 - {name: Cardboard Animal Picinic, folder: 'cardboard-animal-picnic', file: 'work/cardboard-animal-picnic.html'}
 - {name: Bookworm Mini Parklet, folder: 'bookworm', file: 'work/bookworm.html'}
