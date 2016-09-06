@@ -74,13 +74,13 @@ projects:
 - {name: The Yard, folder: 'the-yard', file: 'work/the-yard.html'}
 - {name: Kit-O-Cart, folder: 'kitocart', file: 'work/kitocart.html'}
 - {name: Hopscotch, folder: 'hopscotch', file: 'work/hopscotch.html'}
-- {name: Neighborhood Murals, folder: 'neighborhood-murals', file: 'work/neighborhood-murals.html'}
-- {name: Blind Field Shuttle, folder: 'blind-field-shuttle', file: 'work/blind-field-shuttle.html'}
-- {name: On Hamburger Square, folder: 'on-hamburger-square', file: 'work/on-hamburger-square.html'}
-- {name: Tape Maze, folder: 'tape-maze', file: 'work/tape-maze.html'}
+#- {name: Neighborhood Murals, folder: 'neighborhood-murals', file: 'work/neighborhood-murals.html'}
+#- {name: Blind Field Shuttle, folder: 'blind-field-shuttle', file: 'work/blind-field-shuttle.html'}
+#- {name: On Hamburger Square, folder: 'on-hamburger-square', file: 'work/on-hamburger-square.html'}
+#- {name: Tape Maze, folder: 'tape-maze', file: 'work/tape-maze.html'}
 - {name: Inspector Gadget, folder: 'inspector-gadget', file: 'work/inspector-gadget.html'}
-
 #- {name: Gate City Sign, folder: 'gate-city-sign', file: 'work/gate-city-sign.html'}
+
 #-------------------------------
 # Clients Section
 

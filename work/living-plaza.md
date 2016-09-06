@@ -29,10 +29,6 @@ This was my first major project in the public spaces / placemaking arena. This i
 ![Living Plaza Flyer](assets/img/work/living-plaza/flyer-5.jpg)
 <br>
 
-***Call for Submissions***
-![Living Plaza Call](assets/img/work/living-plaza/shade-call.jpg)
-<br>
-
 ***Publications***
 
 <div data-configid="1170761/3452911" style="width:400px; height:300px;" class="issuuembed"></div><script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script>

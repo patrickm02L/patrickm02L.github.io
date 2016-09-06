@@ -23,5 +23,3 @@ April coincided with book month in Dallas, so we incorporated slots for books to
 ![Bookworm Mini Parklet](assets/img/work/bookworm/bookworm-mini-parklet-2.jpg)
 ![Bookworm Mini Parklet](assets/img/work/bookworm/bookworm-mini-parklet-3.jpg)
 ![Bookworm Mini Parklet](assets/img/work/bookworm/bookworm-mini-parklet-4.jpg)
-
-***Drawings***

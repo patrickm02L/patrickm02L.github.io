@@ -15,6 +15,3 @@ I taught students ages 6-14 Urban Design principles by incorporating play, desig
 
 ***Video***
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1TFItG2x81Q" frameborder="0" allowfullscreen></iframe>
-
-<br>
-***Images***

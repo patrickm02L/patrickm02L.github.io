@@ -16,5 +16,5 @@ The event came about after being reprimanded for writing several messages of joy
 
 Every Tactical Urbanist has their chalk phase!
 
-***Videos***
+***Video***
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qOdeZhQp9qM" frameborder="0" allowfullscreen></iframe>
