@@ -63,25 +63,27 @@ projects:
 - {name: Living Plaza, folder: 'living-plaza', file: 'work/living-plaza.html'}
 - {name: Cardboard Animal Picinic, folder: 'cardboard-animal-picnic', file: 'work/cardboard-animal-picnic.html'}
 - {name: Bookworm Mini Parklet, folder: 'bookworm', file: 'work/bookworm.html'}
-- {name: Party in the Park, folder: 'party-in-the-park', file: 'work/party-in-the-park.html'}
-- {name: Urban Studio, folder: 'urban-studio', file: 'work/urban-studio.html'}
-- {name: Busking Day, folder: 'busking-day', file: 'work/busking-day.html'}
-- {name: Chalktoberfest, folder: 'chalktoberfest', file: 'work/chalktoberfest.html'}
 - {name: Ice Cream Stage, folder: 'ice-cream-stage', file: 'work/ice-cream-stage.html'}
+- {name: Chalktoberfest, folder: 'chalktoberfest', file: 'work/chalktoberfest.html'}
+- {name: Busking Day, folder: 'busking-day', file: 'work/busking-day.html'}
+- {name: Party in the Park, folder: 'party-in-the-park', file: 'work/party-in-the-park.html'}
 - {name: Festivus of Lights, folder: 'festivus', file: 'work/festivus.html'}
+- {name: Urban Studio, folder: 'urban-studio', file: 'work/urban-studio.html'}
 - {name: Dallas Visual Timeline, folder: 'dallas-visual-timeline', file: 'work/dallas-visual-timeline.html'}
 - {name: Black Lunch Tables, folder: 'black-lunch-tables', file: 'work/black-lunch-tables.html'}
-- {name: Blind Field Shuttle, folder: 'blind-field-shuttle', file: 'work/blind-field-shuttle.html'}
-- {name: Hopscotch, folder: 'hopscotch', file: 'work/hopscotch.html'}
+- {name: The Yard, folder: 'the-yard', file: 'work/the-yard.html'}
 - {name: Kit-O-Cart, folder: 'kitocart', file: 'work/kitocart.html'}
+- {name: Hopscotch, folder: 'hopscotch', file: 'work/hopscotch.html'}
 - {name: Neighborhood Murals, folder: 'neighborhood-murals', file: 'work/neighborhood-murals.html'}
+- {name: Blind Field Shuttle, folder: 'blind-field-shuttle', file: 'work/blind-field-shuttle.html'}
 - {name: On Hamburger Square, folder: 'on-hamburger-square', file: 'work/on-hamburger-square.html'}
 - {name: Tape Maze, folder: 'tape-maze', file: 'work/tape-maze.html'}
-- {name: The Yard, folder: 'the-yard', file: 'work/the-yard.html'}
-- {name: Gate City Sign, folder: 'gate-city-sign', file: 'work/gate-city-sign.html'}
 - {name: Inspector Gadget, folder: 'inspector-gadget', file: 'work/inspector-gadget.html'}
+
+#- {name: Gate City Sign, folder: 'gate-city-sign', file: 'work/gate-city-sign.html'}
 #-------------------------------
 # Clients Section
+
 
 #clients:
 #- {avatar: 'face-aaroni.jpg',
