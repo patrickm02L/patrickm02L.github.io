@@ -21,3 +21,8 @@ The timeline was created in conjunction with the opening of Dallas's Margaret Hu
 ![Dallas Visual Timeline](assets/img/work/dallas-visual-timeline/dallas-visual-timeline-2.jpg)
 ![Dallas Visual Timeline](assets/img/work/dallas-visual-timeline/dallas-visual-timeline-3.jpg)
 ![Dallas Visual Timeline](assets/img/work/dallas-visual-timeline/dallas-visual-timeline-4.jpg)
+
+<br>
+***Drawings***
+
+<div data-configid="1170761/37855539" style="width:525px; height:210px;" class="issuuembed"></div><script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script>

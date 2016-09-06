@@ -4,7 +4,7 @@ title: Party in the Park
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_dg6xs8LP8o" frameborder="0" allowfullscreen></iframe>
 **August 2013 | Dallas, TX** <br>
-**Photography . Filming**<br>
+Photography . Filming<br>
 
 ---
 
