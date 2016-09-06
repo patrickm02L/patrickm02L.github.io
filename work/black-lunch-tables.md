@@ -14,11 +14,12 @@ The Black Lunch Tables were developed and designed by Artist Heather Hart as par
 
 My main responsibility was to scope the project, manage the budget, engage the community, and make sure that everything was up to city code. In addition to coordinating the project, I drew the construction documents, took them through plan review process, permitting, and the inspections process.
 
-
+<br>
 ***Images***
 
 ![Black Lunch Tables](assets/img/work/black-lunch-tables/black-lunch-tables-1.jpg)
 ![Black Lunch Tables](assets/img/work/black-lunch-tables/black-lunch-tables-2.jpg)
+![Black Lunch Tables](assets/img/work/black-lunch-tables/black-lunch-tables-3.jpg)
 
 ***Drawings***
 
