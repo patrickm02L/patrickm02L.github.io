@@ -15,9 +15,12 @@ My role was to get the proper permits from the city, work with the business owne
 
 <br>
 ***Video***
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DHemDBebE8o" frameborder="0" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HT3_InMDmq0" frameborder="0" allowfullscreen></iframe>
+<div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/DHemDBebE8o" frameborder="0" allowfullscreen></iframe>
+</div><br>
+<div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/HT3_InMDmq0" frameborder="0" allowfullscreen></iframe>
+</div>
 
 <br>
 ***Images***

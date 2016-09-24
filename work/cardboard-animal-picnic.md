@@ -1,8 +1,9 @@
 ---
 title: Cardboard Animal Picnic
 ---
-
+<div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i5Cn3VBoT10" frameborder="0" allowfullscreen></iframe>
+</div>
 **April 2013 | Dallas, TX** <br>
 Organizing . Photography . Filming . Marketing<br>
 Cardboard <br>
@@ -14,7 +15,9 @@ The Cardboard Animal Picnic was an event to promote play in an underutilized pub
 It was organized in conjunction with GOOD magazine inaugural Neighborday celebration, aimed at getting people to meet their neighbors.
 
 ***Videos***
-<iframe width="560" height="315" src="https://www.youtube.com/embed/b9EX9ffNB34" frameborder="0" allowfullscreen></iframe>
+<div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/b9EX9ffNB34" frameborder="0" allowfullscreen></iframe>
+</div>
 <br>
 
 ***Images***

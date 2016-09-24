@@ -14,8 +14,9 @@ My main responsibility was to scope the project, manage the budget, procure the 
 
 <br>
 ***Video***
-
+<div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OHik2x0OIRM" frameborder="0" allowfullscreen></iframe>
+</div>
 
 <br>
 ***Images***

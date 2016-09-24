@@ -1,8 +1,9 @@
 ---
 title: Living Plaza
 ---
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aGKOpKzW2g0" frameborder="0" allowfullscreen></iframe>
+<div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/aGKOpKzW2g0" frameborder="0" allowfullscreen></iframe>
+</div>
 **May-September 2011 | Dallas,TX** <br>
 Organizing . Promotion . Filming <br>
 
@@ -16,8 +17,9 @@ This was my first major project in the public spaces / placemaking arena. This i
 
 <br>
 ***Video***
-
+<div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cD2GLUaQs0c" frameborder="0" allowfullscreen></iframe>
+</div>
 
 <br>
 ***Flyers***
