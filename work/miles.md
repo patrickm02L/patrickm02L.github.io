@@ -19,3 +19,4 @@ The subject matter, Miles Davis, is one of my musical heroes. I grew up listenin
 ![Miles](assets/img/work/miles/miles-3.jpg)
 ![Miles](assets/img/work/miles/miles-4.jpg)
 ![Miles](assets/img/work/miles/miles-5.jpg)
+![Miles](assets/img/work/miles/miles-6.jpg)
