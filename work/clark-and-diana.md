@@ -10,9 +10,9 @@ Drawing . Photography <br>
 
 ---
 
-Clark and Diana was a piece I created for Art Conspiracy 9 in Dallas. The annual event invites artists from around the community to donated their art to raise money for a local charity.
+Clark and Diana was a piece I created for Art Conspiracy 9 in Dallas. The annual event invites artists from around the community to donate their art to raise money for a local charity.
 
-It was created with Sharpie marker on wood, and meant to showcase my line-drawing skills. I found the image online, copied it to trace paper, and made an impression on the wood. I outlined the transfer in pencil, and hand-drew what didn't get transfered. Then went over it with marker, which was extremely hard because you only get one pass. The entire process took 20hrs.
+It was created with Sharpie marker on wood, and meant to showcase my line-drawing skills. I found the image online, copied it to trace paper, and made an impression on the wood. I outlined the transfer in pencil, and hand-drew what didn't get transferred. Then went over it with marker, which was extremely hard because you only get one pass. The entire process took 20hrs.
 
 The subject matter was about the struggle between woman and man. I wanted to show two iconic historical figures facing off in what would be a brutal battle. I love this image because it brings you right to the edge of what's going to happen, then you have to fill in the rest. What happens next?
 
