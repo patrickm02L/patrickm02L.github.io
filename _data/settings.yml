@@ -70,6 +70,7 @@ projects:
 - {name: Festivus of Lights, folder: 'festivus', file: 'work/festivus.html'}
 - {name: Urban Studio, folder: 'urban-studio', file: 'work/urban-studio.html'}
 - {name: Clark and Diana, folder: 'clark-and-diana', file: 'work/clark-and-diana.html'}
+- {name: Miles, folder: 'miles', file: 'work/miles.html'}
 - {name: Dallas Visual Timeline, folder: 'dallas-visual-timeline', file: 'work/dallas-visual-timeline.html'}
 - {name: Black Lunch Tables, folder: 'black-lunch-tables', file: 'work/black-lunch-tables.html'}
 - {name: The Yard, folder: 'the-yard', file: 'work/the-yard.html'}
