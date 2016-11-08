@@ -8,6 +8,9 @@ Research . Wireframes . User Testing <br>
 
 ---
 
+[Live](http://www.lbds.info/building/inspection_services/schedule_an_inspection.asp) |
+[Code](https://github.com/rossettistone/inspector-gadget)
+
 Inspector Gadget is an online Inspection Scheduling tool built for the City of Long Beach.
 
 As part of the Code for America Fellowship, we were tasked to help make the Business start-up process easier. One of the challenges we identified was the regulatory side of developing and how big of a part Inspections played in the overall launch time of a business.
